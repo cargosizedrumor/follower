@@ -1,4 +1,4 @@
-# follower
+# follower.sh - A Simple TShark Wrapper to "Follow TCP/UDP Streams"
 
 Usage: ./follower.sh <tcp|udp|all> <pcap>
 
